@@ -1,2 +1,3 @@
 # HelloWorld
-begin to use github
+hi humans!
+Dunfora here, i like typescript and Egret game engine
