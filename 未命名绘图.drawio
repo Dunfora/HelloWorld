@@ -181,7 +181,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="40BMm8WncHCWW8s_xj0o" name="第 2 页 创建型模式">
-    <mxGraphModel dx="2607" dy="2616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="9560" dy="6476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1814,7 +1814,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="第 4 页 行为型模式" id="8UQg3BCvmHl-LdBxXBPx">
-    <mxGraphModel dx="1195" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="7170" dy="5149" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="ylHVgbQrOnsQr72QC1xn-0" />
         <mxCell id="ylHVgbQrOnsQr72QC1xn-1" parent="ylHVgbQrOnsQr72QC1xn-0" />
